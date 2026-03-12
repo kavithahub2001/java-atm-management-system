@@ -4,7 +4,8 @@ public class Atm {
     private double withdrawalAmount;
     private double depositAmount;
     private double print;
-    
+    private double demo;
+
     public double getBalance()
     {
         return balance;
