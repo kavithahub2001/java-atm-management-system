@@ -3,7 +3,8 @@ public class Atm {
     private double balance;
     private double withdrawalAmount;
     private double depositAmount;
-
+    private double print;
+    
     public double getBalance()
     {
         return balance;
